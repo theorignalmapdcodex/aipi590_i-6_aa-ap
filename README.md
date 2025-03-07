@@ -103,10 +103,15 @@ See `requirements.txt` for complete list of dependencies.
 ## References
 
 -   [Goodfellow, Ian J., Jonathon Shlens, and Christian Szegedy. "Explaining and harnessing adversarial examples." ICLR 2015.](https://arxiv.org/abs/1412.6572)
--   [Hendrik Metzen, Jan, et al. "Universal adversarial perturbations against semantic image segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2017.](https://openaccess.thecvf.com/content_ICCV_2017/html/Metzen_Universal_Adversarial_Perturbations_ICCV_2017_paper.html)
--   [Anant Jain. "Breaking neural networks with adversarial attacks." Blog post - {https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa} 2019.](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
+
+-   [Hendrik Metzen, Jan, et al. "Universal adversarial perturbations against semantic image segmentation." Proceedings of the IEEE International Conference on Computer Vision. 2017.](https://openaccess.thecvf.com/content_ICCV_2017/papers/Metzen_Universal_Adversarial_Perturbations_ICCV_2017_paper.pdf)
+
+-   [Anant Jain. "Breaking neural networks with adversarial attacks." Blog post 2019.](https://www.anantjain.dev/posts/the-intuition-behind-adversarial-attacks-on-neural-networks)
+
 -   [Dr. Brinnae's Notebook Link](https://github.com/AIPI-590-XAI/Duke-AI-XAI/blob/main/adversarial-ai-example-notebooks/adversarial_attacks_patches.ipynb)
+
 -   [GeminiAI](https://gemini.google.com/app)
+
 -   [ClaudeAI](https://claude.ai/new)
 
 ---
